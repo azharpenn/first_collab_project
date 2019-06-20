@@ -5,9 +5,9 @@ public class Letter
       final double mm_per_inch = 25.4;
 
       // Define constants for paper size in inches
-      final double PAPER_WIDTH_IN = 8.5;
+      final double PAPER_WIDTH_IN = 8.27;
       
-      final double PAPER_LENGTH_IN = 11.0;
+      final double PAPER_LENGTH_IN = 11.69;
 
       // Define variables for millimeters and convert
   
