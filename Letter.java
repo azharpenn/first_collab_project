@@ -15,7 +15,7 @@ public class Letter
 
       // Display (print to screen) the dimensions in mm
      
-      System.out.println("Width: " + Double.toString(width_in_mm));
+      System.out.println("width: " + Double.toString(width_in_mm));
       System.out.println("Length: " + Double.toString(length_in_mm));
 
    
